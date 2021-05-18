@@ -1,5 +1,5 @@
 # connect-four
-A grid-based game using JavaScript, HTML and CSS.It's a two player game where player take turns filling the grid with their color, and the first player who fills up 4 consecutive(up-down,left-right,diagonally up,diagonally down) blocks with their color wins.
+A grid-based(6 x 7) game using JavaScript, HTML and CSS.It's a two player game where player take turns filling the grid with their color, and the first player who fills up 4 consecutive(up-down,left-right,diagonally up,diagonally down) blocks with their color wins.
 
 ## Rules of Connect Four
 * You will start as player One
