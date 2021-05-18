@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let currentPlayer = 1
 
   function checkBoard() {
-    // left-right check
+    //left-right check
     for(let row=0;row<=5;row++){
       for(let col=0;col<=3;col++){
         let id=row*7+col;
